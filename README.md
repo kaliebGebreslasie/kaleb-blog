@@ -13,22 +13,22 @@ To deploy this Strapi instance you'll need:
 
 Once you have created these accounts you can deploy your instance by clicking on this button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/strapi/strapi-starter-blog)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kaliebGebreslasie/kaleb-blog)
 
 ### Features
 
-  - 2 Collection types: Article, Category
-  - 2 Created articles
-  - 2 Created categories
-  - Permissions set to `true` for article and category
+- 2 Collection types: Article, Category
+- 2 Created articles
+- 2 Created categories
+- Permissions set to `true` for article and category
 
 ### Getting started
 
 Clone the repository and install dependencies
 
 ```bash
-git clone https://github.com/strapi/strapi-starter-blog.git
-cd strapi-starter-blog
+git clone https://github.com/kaliebGebreslasie/kaleb-blog.git
+cd kaleb-blog
 ```
 
 #### Install dependencies and start the server

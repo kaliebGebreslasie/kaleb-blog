@@ -2,7 +2,7 @@
   "name": "Strapi",
   "description": "Kaleb blog",
   "keywords": ["strapi", "heroku", "starter", "blog"],
-  "repository": "https://github.com/kaliebGebreslasie/strapi-starter-blog",
+  "repository": "https://github.com/kaliebGebreslasie/kaleb-blog",
   "env": {
     "CLOUDINARY_CLOUD_NAME": {
       "description": "The 'Cloud name' of your Cloudinary account",
